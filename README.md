@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <img alt="Moveit" src=".github/logo.svg" width="110px">
+  <img alt="Moveit" src=".github/logo.svg" width="350px">
 </p>
 
 ## NLW #5
